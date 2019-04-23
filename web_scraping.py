@@ -1,5 +1,4 @@
 # Web Scrapping using Python.
-# Tutorial Link - https://medium.freecodecamp.com/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
 
 
 # import libraries
